@@ -1,0 +1,5 @@
+.all{
+display: flex;
+flex-wrap: nowrap;
+background-color: #001524;
+}

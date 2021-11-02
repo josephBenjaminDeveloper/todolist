@@ -1,0 +1,12 @@
+.contenedor{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.all{
+    background: #001524;
+}
